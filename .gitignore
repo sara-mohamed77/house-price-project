@@ -6,3 +6,4 @@ frontend/dist/
 .env
 .ipynb_checkpoints/
 *.pkl
+notebooks/data/house_prices.csv
